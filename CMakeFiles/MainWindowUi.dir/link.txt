@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libMainWindowUi.a  CMakeFiles/MainWindowUi.dir/ui/mainwindow.cpp.o CMakeFiles/MainWindowUi.dir/MainWindowUi_autogen/mocs_compilation.cpp.o
+/usr/bin/ranlib ../../lib/libMainWindowUi.a
